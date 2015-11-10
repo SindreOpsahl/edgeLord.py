@@ -5,7 +5,9 @@ It works by taking an edge loop and going through each vertex in the loop and al
 This ensures that the normals point in the same direction which helps with shading on normal mapped decals along edges.
 
 To use; Place the script in your Maya scripts folder and call it using:
+
 import edgeLord
+
 edgeLord.run()
 
 This readme currently sucks, so for more details on the technique and images of the effect in action look at this thread:
